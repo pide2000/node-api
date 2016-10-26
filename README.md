@@ -1,4 +1,7 @@
-# Building a RESTful API in Node and Express
+# This Project has started as a fork of github.com:scotch-io/node-api but it changes hardly so it has nothing to do with the node-api project
+First of all thanks to the guys from scotch.io, awesome work
+
+# 
 
 Using the new Express 4.0 Router to build an API
 
